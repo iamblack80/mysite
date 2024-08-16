@@ -1,0 +1,97 @@
+body {
+    background-color: powderblue;
+    display: block;
+    border-top: 0%;
+    font-family: 'Sacremento','Montserrat', cursive, serif;
+    text-align: center;
+}
+.top-container {
+    position: relative;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;  
+    font-size: 100px;
+    font-family: 'Sacramento',cursive; 
+    color: #11999E;
+
+}
+.top-container :hover{
+    color: white;
+}
+.clouda{
+    position: relative;
+    height: 75px;
+    margin-top: 5%;
+    right: 200px;
+}
+.cloudb{
+    position: relative;
+    height: 75px;
+    left: 200px;
+}
+.mount{
+    position: relative;
+    right: 200px;
+    width: 800px;
+}
+
+
+.bottom-container{ 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 60px;
+    width: 300px;
+    font-family: sans-serif,'Montserrat';
+    color: #11999E;
+}  
+.bottom-container :hover{
+    color: white;
+}
+.floor-container{
+    position: relative;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+
+}
+.floor-container :hover{
+    color: white;
+}
+.last-container{
+    position: relative;
+    margin-top: 190px;
+    text-align: left;
+    line-height: 2;
+}
+.last-container :hover{
+    color: white;
+}
+.aimg {
+    width: 20%;
+    float: left;
+    margin-right: 90px;
+}
+.bimg{
+    width: 20%;
+    float: right;
+    margin-left: 70px;
+}
+.footer{
+    margin-top: 200px;
+    background-color: white;
+    width: 100%;
+    opacity: 0.7;
+    bottom: 0%;
+
+}
+.footer :hover{
+    color: grey;
+    
+}
+
+
+
+
+
